@@ -14,7 +14,7 @@ public class TestForCi {
 
 	@Test
 	public void test_02(){
-		Assert.assertEquals(1,2);
+		Assert.assertEquals(1,1);
 	}
 
 }
